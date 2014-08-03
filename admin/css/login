@@ -1,0 +1,42 @@
+#all{
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+}
+.logo{
+    width:300px;
+    height:75px;;
+    background-image: url(../../images/logo.fw.png);
+    position: relative;
+    top:50px;
+    left:50px;
+}
+.login{
+    width:300px;
+    height:175px;
+    margin:auto;
+    position: relative;
+    top:175px;
+}
+.login table tr td{
+    padding:5px;
+}
+input{
+    padding:5px;
+    border-radius: 5px;
+}
+button{
+    margin-left:85px;
+    padding:4px 25px;
+    border-radius: 5px;
+    border:1px solid #DDDDDD;
+    background:-webkit-linear-gradient(top,#F6F6F6,#E5E5E5);
+    background:-moz-linear-gradient(top,#F6F6F6,#E5E5E5);
+    background:-o-linear-gradient(top,#F6F6F6,#E5E5E5);
+    color:#868584;
+}
+button:hover{
+    background: #FFF283;
+    color:#50b7dc;
+    cursor: pointer;
+}

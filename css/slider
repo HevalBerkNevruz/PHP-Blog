@@ -1,0 +1,19 @@
+@charset "utf-8";
+* {
+    margin:0px;
+    padding:0px;
+}
+.slider{
+    cursor: pointer;
+    position: relative;
+    left: 135px;
+    bottom:157px;
+    width:600px;
+    height: 300px;
+    overflow:hidden;
+}
+.slider ul li{
+    width:600px;
+    height:400px;
+    float:left;
+}

@@ -1,0 +1,22 @@
+.post{
+    border-top:1px solid #D5D5D5;
+   width:300px;
+   height: 250px;
+}
+.post div{
+   background-color: #ffffff;
+   height: 35px;
+   background:-webkit-linear-gradient(top,#F6F6F6,#E5E5E5);
+   background:-moz-linear-gradient(top,#F6F6F6,#E5E5E5);
+   background:-o-linear-gradient(top,#F6F6F6,#E5E5E5);
+}
+.post p{
+   margin-left: 15px;
+   font-family: sans-serif;
+   font-size:17px;
+   color:#868584;
+   line-height: 35px;
+}
+.post div:hover{
+   background-color: #FFF283;
+}

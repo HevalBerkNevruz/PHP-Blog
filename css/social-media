@@ -1,0 +1,33 @@
+.social-media{
+    width:175px;
+    height:178px;
+    background:-webkit-linear-gradient(top,#F6F6F6,#E5E5E5);
+    background:-moz-linear-gradient(top,#F6F6F6,#E5E5E5);
+    background:-o-linear-gradient(top,#F6F6F6,#E5E5E5);
+
+}
+.social-media div{
+    background-color: #ffffff;
+    height: 35px;
+}
+.social-media div p{
+    margin-left: 20px;
+    font-family: sans-serif;
+    font-size:17px;
+    color:#50b7dc;
+    line-height: 35px;
+}
+.social-media ul a{
+    width: 135px;
+    padding: 10px 20px;
+    float:left;
+    font-family: sans-serif;
+    font-size:14px;
+    color:#868584;
+    text-decoration: none;
+}
+
+.social-media ul a:hover{
+    background-color: #FFF283;
+    color:#50b7dc;
+}
